@@ -1,0 +1,23 @@
+Name: multiplayer_login
+Password: 7YD4Uf44Q9mB8MvI
+
+Project API keys
+anonpublic:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind1ZWx3YnlkY2t4eHp6bnhjdXRvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIzNDcwMTAsImV4cCI6MjAyNzkyMzAxMH0.jOReH6UuETVN_AbZnFXHeSG3BMHB1PXk5iXWkTUcn9o
+
+service_rolesecret:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind1ZWx3YnlkY2t4eHp6bnhjdXRvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxMjM0NzAxMCwiZXhwIjoyMDI3OTIzMDEwfQ.vdb01pFD_GBwg5gjxAcdBeNHwfxN5ytfwnp0N7Ljs9o
+
+URL:
+https://wuelwbydckxxzznxcuto.supabase.co
+
+JWT Secret:
+**** **** **** ****
+
+Project URL
+https://wuelwbydckxxzznxcuto.supabase.co
+
+API Key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind1ZWx3YnlkY2t4eHp6bnhjdXRvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIzNDcwMTAsImV4cCI6MjAyNzkyMzAxMH0.jOReH6UuETVN_AbZnFXHeSG3BMHB1PXk5iXWkTUcn9o
+
+
